@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7371480ab9efed9d",
+        "id": "eed060dfa15b46d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Obsidian projects.md",
+            "file": "etc/Языки разметки.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/Obsidian projects.md",
+                "file": "etc/Языки разметки.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7371480ab9efed9d",
+  "active": "eed060dfa15b46d0",
   "lastOpenFiles": [
-    "etc/Obsidian projects.md",
+    "etc/Языки разметки.md",
+    "etc/Markdown.md",
+    "etc/Obsidian.md",
     "etc/Zettelkasten.md",
     "Pasted image 20211128145105.png",
     "Pasted image 20211128130029.png",
     "Сatchphrases.md",
     "java/java core/Object.md",
     "patterns/Наблюдатель(Observer).md",
-    "java/APIs/Maven.md",
-    "etc/Markdown.md",
-    "core/Object.md"
+    "java/APIs/Maven.md"
   ]
 }
