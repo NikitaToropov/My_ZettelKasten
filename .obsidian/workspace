@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Языки разметки.md",
+            "file": "etc/Markdown.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "65f6c3a52885655c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "patterns/Наблюдатель(Observer).md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/Языки разметки.md",
+                "file": "etc/Markdown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "eed060dfa15b46d0",
   "lastOpenFiles": [
-    "etc/Языки разметки.md",
     "etc/Markdown.md",
+    "etc/Языки разметки.md",
+    "Полнота_по_Тьюрингу.md",
+    "Полнота.md",
+    "patterns/Наблюдатель(Observer).md",
+    "patterns/MVC.md",
+    "etc/Сatchphrases.md",
     "etc/Obsidian.md",
     "etc/Zettelkasten.md",
-    "Pasted image 20211128145105.png",
-    "Pasted image 20211128130029.png",
-    "Сatchphrases.md",
-    "java/java core/Object.md",
-    "patterns/Наблюдатель(Observer).md",
     "java/APIs/Maven.md"
   ]
 }
