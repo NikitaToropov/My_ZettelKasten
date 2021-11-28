@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Zettelkasten.md",
+            "file": "etc/Obsidian projects.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/Zettelkasten.md",
+                "file": "etc/Obsidian projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "7371480ab9efed9d",
   "lastOpenFiles": [
-    "etc/Zettelkasten.md",
     "etc/Obsidian projects.md",
+    "etc/Zettelkasten.md",
     "Pasted image 20211128145105.png",
     "Pasted image 20211128130029.png",
     "Сatchphrases.md",
