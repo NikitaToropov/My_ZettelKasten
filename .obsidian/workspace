@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "patterns/Наблюдатель(Observer).md",
-            "mode": "source"
+            "file": "etc/Языки разметки.md",
+            "mode": "preview"
           }
         }
       }
@@ -100,10 +100,10 @@
   "active": "eed060dfa15b46d0",
   "lastOpenFiles": [
     "etc/Языки разметки.md",
+    "patterns/Наблюдатель(Observer).md",
     "etc/Zettelkasten.md",
     "etc/Сatchphrases.md",
     "patterns/MVC.md",
-    "patterns/Наблюдатель(Observer).md",
     "etc/Markdown.md",
     "Полнота_по_Тьюрингу.md",
     "Полнота.md",
