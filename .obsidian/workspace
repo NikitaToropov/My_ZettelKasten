@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "patterns/MVC.md",
+            "file": "etc/Языки разметки.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/MVC.md",
+                "file": "etc/Языки разметки.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "eed060dfa15b46d0",
   "lastOpenFiles": [
+    "etc/Языки разметки.md",
+    "etc/Zettelkasten.md",
+    "etc/Сatchphrases.md",
     "patterns/MVC.md",
     "patterns/Наблюдатель(Observer).md",
-    "etc/Языки разметки.md",
     "etc/Markdown.md",
     "Полнота_по_Тьюрингу.md",
     "Полнота.md",
-    "etc/Сatchphrases.md",
     "etc/Obsidian.md",
-    "etc/Zettelkasten.md",
     "java/APIs/Maven.md"
   ]
 }
