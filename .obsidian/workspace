@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Языки разметки.md",
+            "file": "etc/Markdown.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "65f6c3a52885655c",
+        "id": "86e0108902d33c27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/Языки разметки.md",
+            "file": "etc/Markdown.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/Языки разметки.md",
+                "file": "etc/Markdown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +99,12 @@
   },
   "active": "eed060dfa15b46d0",
   "lastOpenFiles": [
+    "etc/Markdown.md",
     "etc/Языки разметки.md",
     "patterns/Наблюдатель(Observer).md",
     "etc/Zettelkasten.md",
     "etc/Сatchphrases.md",
     "patterns/MVC.md",
-    "etc/Markdown.md",
     "Полнота_по_Тьюрингу.md",
     "Полнота.md",
     "etc/Obsidian.md",
