@@ -1,21 +1,10 @@
 {
   "main": {
-    "id": "768cf02ec6b1b699",
+    "id": "ae3733bb2176b38a",
     "type": "split",
     "children": [
       {
-        "id": "9917a9b8f05715dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "etc/Markdown.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "59171749291730fb",
+        "id": "a971a206c34da3e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -29,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ee968b1a70dfa45",
+    "id": "1b5863355e35444f",
     "type": "split",
     "children": [
       {
-        "id": "cb1f733edfd26124",
+        "id": "1c7c72cb45bccd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "2926293d044b15e4",
+            "id": "0f3816283c1cfc68",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,12 +34,12 @@
             }
           },
           {
-            "id": "86a4f83a9addbf7f",
+            "id": "2af648de236c096a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "picturea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,30 +52,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 300
   },
   "right": {
-    "id": "3667d50a7fd4a689",
+    "id": "4e7a394285a2f1b9",
     "type": "split",
     "children": [
       {
-        "id": "b332b71c0592dd21",
+        "id": "07c89dc65eaafa9f",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce508722e2ddca2",
+            "id": "391f7ab035bb8abc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "etc/Markdown.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -94,19 +83,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "59171749291730fb",
+  "active": "a971a206c34da3e2",
   "lastOpenFiles": [
     "etc/Markdown.md",
-    "resources/Markdown Cheatsheet.png",
-    "etc/Языки разметки.md",
-    "resources/Pasted image 20211128145229.png",
-    "patterns/Наблюдатель(Observer).md",
-    "Untitledasdf.md",
-    "Pasted image 20211204132927.png",
-    "Pasted image 20211204133429.png",
+    "etc/Obsidian.md",
     "etc/Zettelkasten.md",
-    "etc/Сatchphrases.md"
+    "etc/Сatchphrases.md",
+    "etc/Языки разметки.md"
   ]
 }
