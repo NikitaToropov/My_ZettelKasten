@@ -14,6 +14,20 @@
 _Текст курсивом_
 **Жирное написание**
 __Жирное написание__
+~~Зачеркнутое написание~~
+
+---
+## * Горизонатальные линии
+*** 
+___
+---
+
+## * Цитирование
+>Вложенное цитирование  
+>extended quotation and is rendered visually by
+>Indentation. (HTML <blockquote> Element)
+
 
 
 ![[Markdown Cheatsheet.png]]
+	
