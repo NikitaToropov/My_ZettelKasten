@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "core"
+  "attachmentFolderPath": "core",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
