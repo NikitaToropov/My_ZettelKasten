@@ -84,5 +84,13 @@ ___
 ---
 ## Картинки
 * ![cheat sheet 1](../resources/Markdown Cheatsheet.png)
-* [cheat sheet 2](https://media.cheatography.com/storage/thumb/lucbpz_the-ultimate-markdown.600.jpg)
+  * [cheat sheet 1](../resources/Markdown Cheatsheet.png)
+* ![cheat sheet 2](https://media.cheatography.com/storage/thumb/lucbpz_the-ultimate-markdown.600.jpg)
+  * [cheat sheet 2](https://media.cheatography.com/storage/thumb/lucbpz_the-ultimate-markdown.600.jpg)
+* ![cheat sheet 3][cheat_seet_3]
+  * [cheat_seet_3]: https://i.pinimg.com/originals/aa/3f/81/aa3f81e32937c5ab7571f006fb2f5bd4.png
 ---
+## Ссылки
+* [Ссылка 1](https://i.pinimg.com/originals/aa/3f/81/aa3f81e32937c5ab7571f006fb2f5bd4.png)
+* [Ссылка 2](https://i.pinimg.com/originals/aa/3f/81/aa3f81e32937c5ab7571f006fb2f5bd4.png "описание")
+* [Ссылка 3](https://i.pinimg.com/originals/aa/3f/81/aa3f81e32937c5ab7571f006fb2f5bd4.png "описание")
