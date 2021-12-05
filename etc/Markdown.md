@@ -76,15 +76,13 @@ ___
 
 ---
 
-## [Эможди](https://www.webfx.com/tools/emoji-cheat-sheet/)
-:sweat_smile:
-:kissing:
-:confounded:
-* https://www.webfx.com/tools/emoji-cheat-sheet/
+## Эможди
+🖥 🚆
+* можно брать [здесь](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* можно плагином в идее [cmd + shift + space]
 
 ---
-## 
+## Картинки
+* ![cheat sheet 1](../resources/Markdown Cheatsheet.png)
+* [cheat sheet 2](https://media.cheatography.com/storage/thumb/lucbpz_the-ultimate-markdown.600.jpg)
 ---
-
-![[Markdown Cheatsheet.png]]
-	

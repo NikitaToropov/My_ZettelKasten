@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "etc/github/GitHub Readme example.md",
+            "file": "etc/Markdown.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/github/GitHub Readme example.md",
+                "file": "etc/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "a971a206c34da3e2",
   "lastOpenFiles": [
+    "etc/Markdown.md",
     "etc/github/GitHub Readme example.md",
     "etc/Postman.md",
-    "etc/Markdown.md",
     "etc/Obsidian.md",
     "etc/Zettelkasten.md",
     "etc/Сatchphrases.md",
