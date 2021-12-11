@@ -40,6 +40,6 @@
   * часть пространства имен [W3C](TODO)
   * ```http://maven.apache.org/POM/4.0.0``` является пространством имен по умолчанию для элементов в этом проекте Maven.
 * xmlns:xsi - объявляет стандартный префикс пространства имен ( xsi ) для основного пространства имен
-  * xsi:schemaLocation -
+  * xsi:schemaLocation - kloklmghhhhhkjhfgjhgjkhgjhgjhxxx
 
 
