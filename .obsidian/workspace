@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java/APIs/POM.md",
+            "file": "patterns/MVC.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "dcf969fe08d2f7a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TODO.md",
-            "mode": "source"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/APIs/POM.md",
+                "file": "patterns/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "4e3bf1fba126b1fc",
   "lastOpenFiles": [
+    "patterns/MVC.md",
+    "school21_projects/Swingy(Java).md",
     "java/APIs/POM.md",
+    "java/APIs/Maven.md",
     "TODO.md",
     "etc/Zettelkasten.md",
     "java/java core/Object.md",
     "etc/github/GitHub Readme example.md",
     "etc/Obsidian.md",
-    "etc/Postman.md",
-    "README.md",
-    "java/APIs/Maven.md",
-    "etc/Markdown.md"
+    "etc/Postman.md"
   ]
 }
