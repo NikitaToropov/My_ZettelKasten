@@ -53,3 +53,7 @@
       определенным пространством имен ```http://maven.apache.org/POM/4.0.0```. 
     * Может содержать несколько пар
 * Обязательные элементы POM файла:
+
+---
+
+[POM documentation](https://maven.apache.org/pom.html)
