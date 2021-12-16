@@ -123,6 +123,9 @@ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -Darchetyp
 
 Инициализирует структуру и делает минимальныую ностройку [POM](POM.md).
 
+---
+
+### [Settings.xml](https://maven.apache.org/settings.html)
 
 ---
 
