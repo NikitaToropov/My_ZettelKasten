@@ -27,6 +27,12 @@
 
 ### Значения по умолчанию для исходного кода проекта и других модулей:
 
+Можно получить плагином archtype используя архетип quickstart:
+
+```
+mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+```
+
 | Модуль | Расположение относительно корня |
 |----------|--------|
 | Исходный код | src/main/java |
@@ -108,3 +114,26 @@ Goal(задача) - специальная задача, которая отн�
         * фаза **package**
 
 ---
+
+### [Maven Archetypes](https://maven.apache.org/archetypes/index.html)
+
+```
+mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+```
+
+Инициализирует структуру и делает минимальныую ностройку [POM](POM.md).
+
+
+---
+
+### Аргументы для запуска Java приложения
+
+#### JVM Options
+
+* Пользовательские опции ```-Dkey=value```
+    * Содержатся среди ```Syste.getProperties()```
+* Зарезервированные ```-Xkeyvalue```
+    * Содержатся среди ```Syste.getProperties()```
+* Зарезервированные более низкоуровневые ```-XX``` 
+
+
