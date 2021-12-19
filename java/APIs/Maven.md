@@ -134,9 +134,10 @@ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -Darchetyp
 #### JVM Options
 
 * Пользовательские опции ```-Dkey=value```
-    * Содержатся среди ```Syste.getProperties()```
+    * Содержатся среди ```System.getProperties()```
 * Зарезервированные ```-Xkeyvalue```
-    * Содержатся среди ```Syste.getProperties()```
-* Зарезервированные более низкоуровневые ```-XX``` 
+    * Содержатся среди ```System.getProperties()```
+* Зарезервированные более низкоуровневые ```-XX```
+    * В запущенном приложении не узнать (TODO )
 
 
