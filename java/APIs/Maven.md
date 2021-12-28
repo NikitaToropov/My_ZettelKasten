@@ -131,24 +131,33 @@ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -Darchetyp
 
 ---
 
-### Аргументы для запуска Java приложения
-
 #### JVM Options
 
-* Пользовательские опции ```-Dkey=value```
+1. Пользовательские опции ```-Dkey=value```
     * Содержатся среди ```System.getProperties()```
-* Зарезервированные ```-Xkeyvalue```
-    * Содержатся среди ```System.getProperties()```
-* Зарезервированные более низкоуровневые ```-XX```
-    * В запущенном приложении не узнать (TODO )
+2. Зарезервированные ```-Xkeyvalue```
+    * В запущенном приложении не узнать
+3. Зарезервированные более низкоуровневые ```-XX```
+    * В запущенном приложении не узнать
 
 ---
 
-###Maven - совокупность плагинов
+### Maven - совокупность плагинов
 
-* Plugin - java проект
-  * состоит из целей(goal)
-    * goal - Mojo (Maven plain Old Java Object)
-      * класс наследник ```org.apache.maven.plugin.AbstractMojo```
-        * переопределяет только ```execute()```;
-  * в каждом есть обязанельная 
+* Плагин - java проект
+    * состоит из целей(goal)
+        * goal - Mojo (Maven plain Old Java Object)
+            * класс наследник ```org.apache.maven.plugin.AbstractMojo```
+            * переопределяет только ```execute()```;
+            * в каждом есть обязанельная цель ```help```
+
+#### Плагины maven
+
+![plugins](maven_plugins.png)
+
+Чтобы вызвать плагин
+```mvn плагин:цель```
+```mvn compiler:help```
+
+---
+
