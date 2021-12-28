@@ -142,4 +142,13 @@ mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -Darchetyp
 * Зарезервированные более низкоуровневые ```-XX```
     * В запущенном приложении не узнать (TODO )
 
+---
 
+###Maven - совокупность плагинов
+
+* Plugin - java проект
+  * состоит из целей(goal)
+    * goal - Mojo (Maven plain Old Java Object)
+      * класс наследник ```org.apache.maven.plugin.AbstractMojo```
+        * переопределяет только ```execute()```;
+  * в каждом есть обязанельная 
