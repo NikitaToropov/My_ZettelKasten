@@ -14,15 +14,23 @@
 
 `!!! Запрещено использовать X.org или любые другие графические серверы`
 
-### VirtualMachine
+`
+Рекомендуется использовать последнюю стабильную версию Debian или CentOS
+`
 
-* Рекомендуется использовать последнюю стабильную версию `Debian`
-* Нужно настроить [CentOS](https://ru.wikipedia.org/wiki/CentOS)
+* Если выберешь [CentOS](https://ru.wikipedia.org/wiki/CentOS) нужно будет настроить:
     * Не нужно настраивать [KDump](https://habr.com/ru/company/selectel/blog/226487/)
     * [SELinux](https://ru.wikipedia.org/wiki/SELinux) должен запускаться при старте и быть настроен согласно
       требованиям проекта
     * [AppArmor](https://ru.wikipedia.org/wiki/AppArmor) должен запускаться при старте и быть настроен согласно
       требованиям проекта
+
+---
+
+### VirtualMachine:
+
+* `hostname` ВМ - `cmissy42` (логин42)
+    * Во время защиты `hostname` нужно будет изменить
 * ВМ должна содержать как минимум **2 зашифрованных раздела**
     * Для этого использовать [LVM](https://ru.wikipedia.org/wiki/LVM) - (logical volume manager) менеджер логических
       томов
@@ -46,8 +54,6 @@
 
 ### Security policy
 
-* `hostname` ВМ - `cmissy42` (логин42)
-    * Во время защиты `hostname` нужно будет изменить
 * Реализовать `Strong password policy`
     * Срок жизни пароля 30 дней
     * Интервал между сменой паролей должен быть не меньше 2х
