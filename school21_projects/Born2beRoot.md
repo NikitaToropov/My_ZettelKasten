@@ -108,6 +108,16 @@ Take a look at cron.
 ```
 
 ---
+# Checklist
+- [ ] General instructions
+- [ ] Project overview
+  - [ ] Как работает ВМ
+  - [ ] Какую ОС выбрал и почему 
+  - [ ] Разница между CentOS и Debian
+  - [ ] Для чего нужна ВМ
+  - [ ] Для выбравших Debina: объяснить aptitude apt, APPArmor
+- [ ] Simple setup
+  - [ ] Убедиться что нет графического интерфейса, перед пуском 
 
-
+- 
 
