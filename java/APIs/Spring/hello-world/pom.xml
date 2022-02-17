@@ -11,7 +11,7 @@
 	<groupId>ru.atikin.web</groupId>
 	<artifactId>hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello-world</name>
+	<name>hello-world</name>w
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
