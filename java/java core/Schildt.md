@@ -367,3 +367,4 @@ static int getDefaultNumber() {
 
 # Обработка исключений
 
+Исключение - 
