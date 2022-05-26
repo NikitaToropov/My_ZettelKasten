@@ -2,9 +2,9 @@
   "name": "NK87",
   "vendorProductId": 2305314380,
   "macros": [
-    "{KC_LCTL,KC_F9}",
-    "{KC_LSFT,KC_F10}",
-    "{KC_LSFT,KC_F9}",
+    "{KC_LALT,KC_F9}",
+    "{KC_LCTL,KC_R}",
+    "{KC_LCTL,KC_D}",
     "",
     "{KC_LCTL,KC_F2}",
     "{KC_LALT,KC_1,}",
