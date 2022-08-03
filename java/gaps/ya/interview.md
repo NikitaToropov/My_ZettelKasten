@@ -39,8 +39,8 @@
 [Источник](https://yandex.ru/jobs/pages/dev_interview)
 
 * [Задачи](https://contest.yandex.ru/contest/8458/enter/)
-* [Алгоритмы](https://habr.com/ru/company/yandex/blog/449890/)
-  * [видео с решением 1](https://www.youtube.com/watch?v=0yxjWwoZtLw)
+* [Алгоритмы](algorithms.md)
+   * [видео с решением 1](https://www.youtube.com/watch?v=0yxjWwoZtLw)
   * [видео с решением 2](https://www.youtube.com/watch?v=zU-LndSG5RE)
 * [Архитектурная секция](https://habr.com/ru/company/yandex/blog/564132/)
 * [Числа, которые точно нужно знать](https://github.com/donnemartin/system-design-primer/blob/master/README.md#appendix) 
