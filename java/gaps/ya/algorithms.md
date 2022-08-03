@@ -9,5 +9,5 @@
 #### tips:
 * [Java в термнале](https://habr.com/ru/post/125210/)
   * `javac file_name.java`  - компиляция в .class
-  * `java -classpath . Main` - запуск `.` -classpath
+  * `java -classpath . Main` - запуск `.` -classpath `Main` - main класс
   * 
