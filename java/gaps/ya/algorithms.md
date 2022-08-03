@@ -8,10 +8,10 @@
 
 [план](https://leetcode.com/study-plan/leetcode-75/?progress=j0rkqc2)
 
-* 1480. Running Sum of 1d Array (текущая сумма одномерного массива)
-* 724. Find Pivot Index (Найти индекс, сумма членов слева равна сумме справа от него ИСКЛЮЧАЯ РАЗДЕЛИТЕЛЬ)
-* [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-* 
+* Running Sum of 1d Array (текущая сумма одномерного массива)
+* Find Pivot Index (Найти индекс, сумма членов слева равна сумме справа от него ИСКЛЮЧАЯ РАЗДЕЛИТЕЛЬ)
+* [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+* [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
 ---
 
